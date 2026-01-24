@@ -1,3 +1,30 @@
 ---
 ---
 @import "portfolYOU";
+
+/* --- CUSTOM BRANDING --- */
+
+/* 1. Use Helvetica to match your resume */
+body, h1, h2, h3, h4, .card-title, .nav-link {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    -webkit-font-smoothing: antialiased;
+    letter-spacing: -0.02em;
+}
+
+/* 2. Physical Intelligence Style: Neutral Colors */
+:root {
+    --primary-color: #000000; /* Changes buttons/accents to black */
+}
+
+/* 3. Make the Project Cards look cleaner */
+.card {
+    border: 1px solid #eee !important;
+    box-shadow: none !important; /* Removes the "cheap" shadow for a flatter look */
+    border-radius: 0px !important; /* Sharp corners look more professional/engineering */
+}
+
+/* 4. Navigation bar cleanup */
+.navbar {
+    border-bottom: 1px solid #eee;
+    background-color: #ffffff !important;
+}
