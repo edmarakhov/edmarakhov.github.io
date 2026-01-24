@@ -14,6 +14,8 @@ description: 2-DOF laser projection system featuring PID control and 3D-printed 
 * [cite_start]Modeled system dynamics and tuned PID controllers using Simulink[cite: 144].
 * [cite_start]Integrated a PID Controller, Motor Transfer Function, and Derivative Weighted Sum Filter to optimize trajectory tracking [cite: 132-142].
 * [cite_start]Implemented Feedback Weighted Sum Filters and Sensor Gains to minimize error [cite: 138-141].
+* ![SOLIDWORKS System Assembly](/assets/img/laser-1.jpg)
+* ![SOLIDWORKS System Exploded View](/assets/img/laser-3.jpg)
 
 ### Result
 [cite_start]Achieved stable laser positioning with low overshoot and accurate tracking [cite: 146-148].

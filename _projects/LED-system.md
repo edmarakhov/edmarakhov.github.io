@@ -1,7 +1,7 @@
 ---
 name: Cyanobacteria Growth LED System - UBC Hallam Lab
 tools: [Hardware, Embedded C, JavaScript]
-image: /assets/img/led-scheduler.jpg
+image: /assets/img/hallam-2.jpg
 description: Wireless LED driver system with remote scheduling for high-throughput biological experiments.
 ---
 
@@ -10,8 +10,11 @@ description: Wireless LED driver system with remote scheduling for high-throughp
 
 ### Action
 * [cite_start]Designed an LED driver system using ESP32 for wireless scheduling and brightness control of 48V panels[cite: 116].
+* ![LED Driver and Control Circuit Prototype](/assets/img/hallam-2.jpg)
 * [cite_start]Programmed embedded firmware in C for PWM dimming and network communication[cite: 116].
-* [cite_start]Built a web/mobile interface in HTML/JavaScript hosted on the ESP32 for remote control[cite: 117].
+* [cite_start]Built a web/mobile interface in HTML/JavaScript hosted on the ESP32 for remote control[cite: 117]
+* ![Web/Mobile Control](/assets/img/hallam-1.jpg).
 
 ### Result
 [cite_start]Expanded capacity 5x to 13,860 cultures per experiment run[cite: 118]. [cite_start]It is now the lab standard high-throughput system and is featured in a forthcoming peer-reviewed publication[cite: 118].
+* ![Completed LED System](/assets/img/hallam-3.jpg).
