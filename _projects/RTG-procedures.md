@@ -1,5 +1,5 @@
 ---
-name: RTG Spreader PM Redesign — Global Container Terminals
+name: PM Redesign for RTG Spreaders  — Global Container Terminals
 tools: [Reliability Engineering, 5S, Project Management]
 image: /assets/img/gct-data.jpg
 description: RTG Spreader Preventative Maintenance overhaul (from RCA to deployment)
@@ -13,6 +13,7 @@ RTG spreaders were identified as a lead cause of equipment downtime. Existing Pr
 * **Process Optimization:** Applied 5S principles to reorganize maintenance tasks, improving clarity and reducing technician error.
 * **Stakeholder Alignment:** Orchestrated the launch of standardized PMs, securing critical approval from the site safety committee.
 * ![Managing concurrent teams of technicians for RCA over 2-week sprint](/assets/img/gct-data-2.jpg).
+* Managing concurrent teams of technicians for RCA over 2-week spring
 
 ### Result
 * **Operational Efficiency:** Created standardized, safe PM protocols used fleet-wide, resulting in a 40% reduction in spreader-related downtime.

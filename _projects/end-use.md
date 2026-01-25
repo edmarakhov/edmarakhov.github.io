@@ -1,7 +1,7 @@
 ---
 name: End-Use Load Profiling — BC Hydro
-tools: [SQL, SAS, Python, Data Analytics]
-image: /assets/img/hydro-end-use-1.jpg
+tools: [Data Analytics, SQL, SAS, Python]
+image: /assets/img/hydro-end-use-1.png
 description: Statistical modeling of 52 million+ records to improve long-term energy demand forecasting.
 ---
 
@@ -13,7 +13,10 @@ Generating accurate BC-specific demand forecasts required the analysis of over 5
 * Processed massive historical datasets to isolate variables driving peak demand across various customer segments.
 
 ### Result
-* ![End-Use Heat Responses](/assets/img/hydro-end-use-1.png)
-* ![End-Use Heat Responses](/assets/img/hydro-end-use-2.png)
-* ![End-Use Heat Responses](/assets/img/hydro-end-use-3.png)
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="/assets/img/hydro-end-use-1.png" alt="Heat Response 1" style="width: 32%;">
+  <img src="/assets/img/hydro-end-use-2.png" alt="Heat Response 2" style="width: 32%;">
+  <img src="/assets/img/hydro-end-use-3.png" alt="Heat Response 3" style="width: 32%;">
+</div>
+<p><em>Commerical end use load responses per sqft based on temperature.</em></p>
 Produced high-fidelity demand forecasts that improved the accuracy of long-term energy planning for the province.
