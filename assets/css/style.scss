@@ -1,3 +1,56 @@
 ---
 ---
+// 1. Color Variables
+$deep-blue: #111184;
+$off-white: #f5f5f7;      // Apple-style off-white
+$bg-charcoal: #0d0d0e;    // Slightly softer than pure black
+$card-bg: #161617;        // Distinct from background
+
+// 2. Global Styling (Helvetica + Dark Theme)
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  background-color: $bg-charcoal !important;
+  color: $off-white !important;
+}
+
+// 3. Navbar & Links
+.navbar-themed {
+  background-color: $bg-charcoal !important;
+  border-bottom: 1px solid $deep-blue;
+}
+
+.nav-link, .navbar-brand {
+  color: $off-white !important;
+  text-transform: lowercase; // Minimalist look
+  &:hover {
+    color: $deep-blue !important;
+  }
+}
+
+// 4. Project Cards (Using your Blue for accents)
+.project.card {
+  background-color: $card-bg !important;
+  border: 1px solid #2d2d2d !important; // Subtle border
+  border-radius: 4px !important;
+  
+  &:hover {
+    border-color: $deep-blue !important; // Deep blue glow on hover
+    transform: translateY(-5px) !important;
+  }
+  
+  .card-title {
+    color: $off-white !important;
+  }
+}
+
+// 5. Timeline & Accents
+.timeline-body:after {
+  background-color: $deep-blue !important; // Blue vertical line
+}
+
+.timeline-body .timeline-item:after {
+  border-color: $deep-blue !important;
+  background-color: $bg-charcoal !important;
+}
+
 @import "portfolYOU";
