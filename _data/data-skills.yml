@@ -1,0 +1,12 @@
+- name: SQL
+  percentage: 90
+  color: info
+- name: Python
+  percentage: 85
+  color: primary
+- name: Power BI
+  percentage: 90
+  color: info
+- name: Simulations
+  percentage: 70
+  color: warning

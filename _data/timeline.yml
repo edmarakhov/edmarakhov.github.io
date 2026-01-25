@@ -1,17 +1,36 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Data Analyst Intern — BC Hydro
+  from: Sep 2025
+  to: Dec 2025
+  description: >-
+    Served as Project Lead for a customer segmentation dashboard, integrating big data to provide incentive program 
+    managers with targeted outreach and co-participation insights. Conducted Monte Carlo simulations 
+    on digital-twins to forecast EV charging demand, translating results into site-specific DCFC station planning 
+    recommendations. Generated provincial demand forecasts from 52M+ power and weather records 
+    by developing statistical end-use load models in SQL, SAS, and Python.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Electrical Engineering Project Lead — UBC Hallam Lab
+  from: May 2025
+  to: Aug 2025
+  description: >-
+    Designed and manufactured a custom 9-panel 48V LED driver and control system with ESP32 firmware for wireless 
+    scheduling in high-throughput microbiology experiments. Spearheaded technical translation for 
+    a 100-person research group, converting microbiology requirements into hardware and web/mobile UI specifications. 
+    Scaled platform capacity 5x to 13,860 separate cultures, establishing the system as the lab's standard.
+
+- title: Reliability Engineering Intern — Global Container Terminals
+  from: Sep 2024
+  to: May 2025
+  description: >-
+    Achieved $250,000 in YOY savings by managing the end-to-end product lifecycle of SAE-compliant power distribution 
+    modules for 150 yard tractors. Reduced equipment downtime by 30% by directing a maintenance 
+    strategy overhaul backed by cost and labor variance analysis in Power BI. Managed concurrent 
+    teams of union technicians during intensive inspection cycles to ensure 100% data integrity for new workflows.
+
+- title: Firmware and Electrical Engineering — UBC Formula Electric (FSAE)
+  from: Sep 2022
+  to: Present
+  description: >-
+    Architected and integrated the hardware on the team's first wireless telemetry system, enabling real-time monitoring of vehicle 
+    health and performance. Implemented C firmware for CAN message serialization using Protocol 
+    Buffers to optimize bandwidth to 500kbps+ while maintaining RTOS compatibility. Validated radio 
+    range and signal integrity through Python hardware-in-the-loop (HIL) testing and oscilloscope debugging.

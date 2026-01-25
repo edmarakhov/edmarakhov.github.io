@@ -1,0 +1,9 @@
+- name: Product Lifecycle Management
+  percentage: 95
+  color: danger
+- name: Change Management
+  percentage: 90
+  color: success
+- name: 5S Process Optimization
+  percentage: 85
+  color: primary
