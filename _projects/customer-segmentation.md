@@ -1,11 +1,12 @@
 ---
 name: Customer Segmentation Dashboard — BC Hydro
 tools: [Data Analytics, Strategy, Big Data]
-description: Big data dashboard for visualizing customer behavior and optimizing incentive outreach.
+description: Big data dashboard for visualizing customer behaviour and optimizing incentive outreach
 ---
 
 ### Situation
-* Incentive program managers lacked granular visibility into customer behavior and program overlap. Big data resources were underutilized for identifying high-potential participants for targeted outreach.
+* Incentive program managers lacked granular visibility into customer behavior and program overlap. 
+* Big data resources were underutilized for identifying high-potential participants for targeted outreach.
 
 ### Action
 * Served as Project Lead to design and integrate a comprehensive customer segmentation dashboard using big data.

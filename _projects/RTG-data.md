@@ -6,13 +6,22 @@ description: Variance analysis and interactive dashboards for RTG crane maintena
 ---
 
 ### Situation
-[cite_start]RTG cranes experienced excessive downtime despite existing preventive maintenance (PM)[cite: 64]. [cite_start]Maintenance leadership lacked visibility into PM content, scheduling, labor hours, and costs, with no existing cross-fleet performance analysis[cite: 65, 66].
+* RTG cranes experienced excessive downtime despite existing preventive maintenance (PM). 
+* Maintenance leadership lacked visibility into PM content, scheduling, labor hours, and costs, with no existing cross-fleet performance analysis.
 
 ### Action
-* [cite_start]Conducted variance analysis across PM labor hours, scheduling, and costs for all RTG fleets[cite: 59].
-* [cite_start]Built interactive dashboards in Power BI to visualize inefficiencies and performance gaps[cite: 60].
-* [cite_start]Presented findings to the VP of Maintenance and collaborated with the Maintenance Manager on an action plan[cite: 61, 62].
-* ![Power BI RTG Maintenance History Dashboard](/assets/img/gct-data.jpg).
+<div style="display: flex; justify-content: flex-start; gap: 15px; margin-bottom: 20px;">
+  <img src="/assets/img/gct-data.jpg" alt="Dashboard" style="width: 48%; border-radius: 4px; border: 1px solid #1c1c9e;">
+  <div style="flex: 1; font-size: 0.95rem;">
+    <p><strong>Power BI RTG Maintenance History Dashboard</strong></p>
+    <ul>
+      <li>Conducted variance analysis across PM labor hours, scheduling, and costs for all RTG fleets.</li>
+      <li>Built interactive dashboards in Power BI to visualize inefficiencies and performance gaps.</li>
+      <li>Presented findings to the VP of Maintenance and collaborated with the Maintenance Manager on an action plan.</li>
+    </ul>
+  </div>
+</div>
 
 ### Result
-[cite_start]Delivered an action plan projected to eliminate 40+ annual downtime events per machine[cite: 68]. [cite_start]Conducted a full redesign of all RTG spreader PMs and developed handover documentation for repeatable analysis across other fleets[cite: 69].
+* Delivered an action plan projected to eliminate 40+ annual downtime events per machine.
+* Conducted a full redesign of all RTG spreader PMs and developed handover documentation for repeatable analysis across other fleets.

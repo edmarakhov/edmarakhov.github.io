@@ -6,7 +6,7 @@ description: Real-time vehicle data transmission system using radio modules and 
 ---
 
 ### Situation
-The racing team lacked real-time vehicle data for monitoring performance and health during operation.
+* The racing team lacked real-time vehicle data for monitoring performance and health during operation.
 
 ### Action
 * Researched and tested radio modules and antennas for high-speed one-way telemetry.
@@ -14,5 +14,12 @@ The racing team lacked real-time vehicle data for monitoring performance and hea
 * Coordinated between electrical and mechanical teams to ensure integration and FSAE rule adherence.
 
 ### Result
-* ![Dashboard View of Live Telemetry](/assets/img/fsae-telem-1.jpg)
-Enabled real-time monitoring of critical vehicle system health and performance during track testing.
+<div style="display: flex; justify-content: flex-start; gap: 15px;">
+  <img src="/assets/img/fsae-telem-1.jpg" alt="Live Telemetry" style="width: 48%; border-radius: 4px; border: 1px solid #1c1c9e;">
+  <div style="flex: 1; font-size: 0.95rem;">
+    <p><strong>Dashboard View of Live Telemetry</strong></p>
+    <ul>
+      <li>Enabled real-time monitoring of critical vehicle system health and performance during track testing.</li>
+    </ul>
+  </div>
+</div>
