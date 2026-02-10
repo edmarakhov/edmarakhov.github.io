@@ -1,6 +1,6 @@
 ---
 name: Yard Tractor PDM - Global Container Terminals
-tools: [Hardware, Systems, Management]
+tools: [tag-mgmt, tag-eng, Hardware, Systems, Management]
 image: /assets/img/gct-pdm-2.jpg
 description: SAE-compliant Power Distribution Module (PDM) design to reduce unplanned fleet downtime.
 ---
@@ -30,6 +30,7 @@ description: SAE-compliant Power Distribution Module (PDM) design to reduce unpl
     <ul>
       <li>PDMs were installed on 150 yard tractors, contributing to $250,000 in gross YOY savings from reduced downtime.</li>
       <li>The system now enables future device installations without new harnessing work.</li>
+      <li>Installation of the PDMs resulted in a reduction of approximately 55,000 hours of idling per year, offsetting 368 metric tonnes of CO2, equivalent to removing 80 passenger vehicles from the road annually. </li>
     </ul>
   </div>
 </div>

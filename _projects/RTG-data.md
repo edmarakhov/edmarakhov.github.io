@@ -1,6 +1,6 @@
 ---
 name: RTG Data Analysis - Global Container Terminals
-tools: [Data Analytics, Management, Power BI]
+tools: [tag-mgmt, tag-data, tag-eng, Data Analytics, Management, Power BI]
 image: /assets/img/gct-data.jpg
 description: Variance analysis and interactive dashboards for RTG crane maintenance optimization.
 ---
@@ -23,5 +23,7 @@ description: Variance analysis and interactive dashboards for RTG crane maintena
 </div>
 
 ### Result
+* Increased RTG crane throughput by 15%
+* Increased MMBF (mean moves between failure) by 3x
 * Delivered an action plan projected to eliminate 40+ annual downtime events per machine.
 * Conducted a full redesign of all RTG spreader PMs and developed handover documentation for repeatable analysis across other fleets.

@@ -1,6 +1,6 @@
 ---
 name: Customer Segmentation Dashboard — BC Hydro
-tools: [Data Analytics, Strategy, Big Data]
+tools: [tag-mgmt, tag-data, Data Analytics, Strategy, Big Data]
 description: Big data dashboard for visualizing customer behaviour and optimizing incentive outreach
 ---
 

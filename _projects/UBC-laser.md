@@ -1,6 +1,6 @@
 ---
 name: Laser Projector - UBC Coursework
-tools: [Simulink, SOLIDWORKS, Control Systems]
+tools: [tag-eng, Simulink, SOLIDWORKS, Control Systems]
 image: /assets/img/laser-1.jpg
 description: 2-DOF laser projection system featuring PID control and 3D-printed housing.
 ---

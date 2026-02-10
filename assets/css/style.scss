@@ -66,4 +66,15 @@ body {
   }
 }
 
+// Project Category Colors
+.tag-mgmt { background-color: #8b0000 !important; } // Deep Red for Management
+.tag-eng  { background-color: #1c1c9e !important; } // Brand Blue for Engineering
+.tag-data { background-color: #006400 !important; } // Forest Green for Data
+
+// Standardizing tag appearance
+.badge {
+  border: 1px solid rgba(255,255,255,0.1);
+  text-transform: lowercase;
+}
+
 @import "portfolYOU";

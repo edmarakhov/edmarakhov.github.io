@@ -1,6 +1,6 @@
 ---
 name: End-Use Load Profiling — BC Hydro
-tools: [Data Analytics, SQL, SAS, Python]
+tools: [tag-data, Data Analytics, SQL, SAS, Python]
 image: /assets/img/hydro-end-use-1.png
 description: Statistical modeling of 52 million+ records to improve long-term energy demand forecasting.
 ---
