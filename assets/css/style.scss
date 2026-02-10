@@ -66,15 +66,29 @@ body {
   }
 }
 
-// Project Category Colors
-.tag-mgmt { background-color: #8b0000 !important; } // Deep Red for Management
-.tag-eng  { background-color: #1c1c9e !important; } // Brand Blue for Engineering
-.tag-data { background-color: #006400 !important; } // Forest Green for Data
-
-// Standardizing tag appearance
+/* Verified Category Overrides */
 .badge {
-  border: 1px solid rgba(255,255,255,0.1);
-  text-transform: lowercase;
+  /* This handles all your technical tools like Python/SQL */
+  background-color: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: #888;
+  
+  /* These handle your 3 High-Level Pillars */
+  &.engineering { 
+    background-color: #1c1c9e !important; 
+    color: #fff !important; 
+    border: none !important;
+  }
+  &.management { 
+    background-color: #8b0000 !important; 
+    color: #fff !important;
+    border: none !important;
+  }
+  &.data-analytics { 
+    background-color: #006400 !important; 
+    color: #fff !important;
+    border: none !important;
+  }
 }
 
 @import "portfolYOU";

@@ -1,6 +1,6 @@
 ---
 name: Cyanobacteria Growth LED System - UBC Hallam Lab
-tools: [tag-eng, tag-mgmt, Hardware, Embedded C, JavaScript]
+tools: [Engineering, Management, Hardware, Embedded C, JavaScript]
 image: /assets/img/hallam-2.jpg
 description: Wireless LED driver system with remote scheduling for high-throughput biological experiments.
 ---

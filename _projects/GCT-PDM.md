@@ -1,6 +1,6 @@
 ---
 name: Yard Tractor PDM - Global Container Terminals
-tools: [tag-mgmt, tag-eng, Hardware, Systems, Management]
+tools: [Management, Engineering, Hardware, Systems]
 image: /assets/img/gct-pdm-2.jpg
 description: SAE-compliant Power Distribution Module (PDM) design to reduce unplanned fleet downtime.
 ---

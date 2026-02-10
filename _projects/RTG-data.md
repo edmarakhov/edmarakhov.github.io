@@ -1,6 +1,6 @@
 ---
 name: RTG Data Analysis - Global Container Terminals
-tools: [tag-mgmt, tag-data, tag-eng, Data Analytics, Management, Power BI]
+tools: [Management, Data Analytics, Engineering, Power BI]
 image: /assets/img/gct-data.jpg
 description: Variance analysis and interactive dashboards for RTG crane maintenance optimization.
 ---

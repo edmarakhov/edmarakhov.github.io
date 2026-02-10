@@ -1,6 +1,6 @@
 ---
 name: Wireless Telemetry System - UBC Formula Electric
-tools: [tag-eng, Hardware, Embedded C, Python, Systems]
+tools: [Engineering, Hardware, Embedded C, Python, Systems]
 image: /assets/img/fsae-telem-1.jpg
 description: Real-time vehicle data transmission system using radio modules and Protocol Buffers.
 ---

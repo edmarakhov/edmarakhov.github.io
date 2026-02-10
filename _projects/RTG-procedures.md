@@ -1,6 +1,6 @@
 ---
 name: PM Redesign for RTG Spreaders  — Global Container Terminals
-tools: [tag-mgmt, tag-data, Reliability Engineering, 5S, Project Management]
+tools: [Management, Data Analytics, Reliability Engineering, 5S]
 image: /assets/img/gct-data-2.jpg
 description: RTG Spreader Preventative Maintenance overhaul (from RCA to deployment)
 ---

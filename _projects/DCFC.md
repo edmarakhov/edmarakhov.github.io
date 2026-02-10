@@ -1,6 +1,6 @@
 ---
 name: DCFC Station Planning — BC Hydro
-tools: [tag-data, tag-eng, Data Analytics, Simulation, Python, EV Infrastructure]
+tools: [Data Analytics, Engineering, Simulation, Python, EV Infrastructure]
 image: /assets/img/hydro-monte-1.png
 description: Monte Carlo simulations on digital-twins to forecast EV charging demand and network expansion.
 ---
