@@ -1,4 +1,5 @@
 ---
+weight: 7
 name: PM Redesign for RTG Spreaders  — Global Container Terminals
 tools: [Management, Data Analytics, Reliability Engineering, 5S]
 image: /assets/img/gct-data-2.jpg

@@ -1,4 +1,5 @@
 ---
+weight: 6
 name: End-Use Load Profiling — BC Hydro
 tools: [Data Analytics, SQL, SAS, Python]
 image: /assets/img/hydro-end-use-1.png

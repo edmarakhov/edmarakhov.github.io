@@ -1,4 +1,5 @@
 ---
+weight: 9
 name: Laser Projector - UBC Coursework
 tools: [Engineering, Simulink, SOLIDWORKS, Control Systems]
 image: /assets/img/laser-1.jpg

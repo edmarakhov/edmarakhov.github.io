@@ -1,4 +1,5 @@
 ---
+weight: 1
 name: Yard Tractor PDM - Global Container Terminals
 tools: [Management, Engineering, Hardware, Systems]
 image: /assets/img/gct-pdm-2.jpg

@@ -1,4 +1,5 @@
 ---
+weight: 3
 name: RTG Data Analysis - Global Container Terminals
 tools: [Management, Data Analytics, Engineering, Power BI]
 image: /assets/img/gct-data.jpg

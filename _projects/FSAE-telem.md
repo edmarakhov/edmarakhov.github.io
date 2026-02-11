@@ -1,4 +1,5 @@
 ---
+weight: 2
 name: Wireless Telemetry System - UBC Formula Electric
 tools: [Engineering, Hardware, Embedded C, Python, Systems]
 image: /assets/img/fsae-telem-1.jpg

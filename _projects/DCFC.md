@@ -1,4 +1,5 @@
 ---
+weight: 5
 name: DCFC Station Planning — BC Hydro
 tools: [Data Analytics, Engineering, Simulation, Python, EV Infrastructure]
 image: /assets/img/hydro-monte-1.png

@@ -1,4 +1,5 @@
 ---
+weight: 4
 name: Cyanobacteria Growth LED System - UBC Hallam Lab
 tools: [Engineering, Management, Hardware, Embedded C, JavaScript]
 image: /assets/img/hallam-2.jpg
